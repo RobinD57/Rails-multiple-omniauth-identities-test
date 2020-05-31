@@ -31,6 +31,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
 gem 'omniauth-mixer'
 gem 'omniauth-twitch'
+gem 'activerecord-session_store'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
