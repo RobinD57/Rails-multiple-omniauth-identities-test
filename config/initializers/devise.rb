@@ -259,8 +259,8 @@ Devise.setup do |config|
   # ==> OmniAuth
   # Add a new OmniAuth provider. Check the wiki for more information on setting
   # up on your models and hooks.
-  config.omniauth :twitch, '77vqrdbqf7hjl2ddf9dvff501e2izj', 'ucdhv4lz3gx0rntfn8v476djbs34le'
-  config.omniauth :mixer, '5f4e22b900900568c243538ff7ab78a048f299728084992b', '1c62a3ae9ac2e99cf8672642c9f1824526b6ca9a2fbb8cee14ef5cdd8cdf5c56'
+  config.omniauth :twitch, 'x', 'x'
+  config.omniauth :mixer, 'x', 'x'
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or
